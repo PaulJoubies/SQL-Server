@@ -1,0 +1,9 @@
+---------------------------
+Rule Check Result
+---------------------------
+Rule "Windows Firewall" generated a warning.
+
+The Windows Firewall is enabled. Make sure the appropriate ports are open to enable remote access. See the rules documentation at https://go.microsoft.com/fwlink/?LinkId=94001 for information about ports to open for each feature.
+---------------------------
+OK   
+---------------------------
